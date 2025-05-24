@@ -11,9 +11,9 @@ In this threat hunting lab, I investigated a **Windows Virtual Machine (VM)** (`
 ---
 
 <p align="center">
-  <img src="./source/TH1.png" width="500" height="500" />
+  <img src="./source/TH1.png" width="500" height="350" />
 
-  <img src="./source/TH2.png" width="500" height="500" />
+  <img src="./source/TH2.png" width="500" height="350" />
 </p>
 
 ---
