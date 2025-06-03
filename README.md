@@ -185,18 +185,6 @@ Investigated an exposed Windows VM (`windows-target-1`) using MDE and KQL. Multi
 
 ---
 
-**Visual Evidence** *(Images placed in `source/` directory)*:
-
-```
-![Internet Exposure Validation](source/mde_exposed_vm.png)
-
-![Failed Logins Summary](source/failed_logins_summary.png)
-
-![Rapid Failed Login Attempts](source/burst_activity.png)
-
-![Legitimate Successful Logins](source/successful_logons.png)
-```
-
 ---
 
 **Project Directory Structure:**
